@@ -8,6 +8,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 * Elemento 2
 * Elemento 3
 
+![Gatito de prueba](https://github.com/user-attachments/assets/c1ad1b79-d790-4d68-a4a5-e378b30890c5)
 
 # Files
 
